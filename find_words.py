@@ -3,7 +3,7 @@
 import sys
 import re
 
-def search_stream(in_stream, target_regex):
+def search_stream(in_stream, target_regex,:
     """
     Search an input stream line by line for all matches of a regular
     expression pattern.
